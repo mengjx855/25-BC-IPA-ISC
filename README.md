@@ -9,6 +9,7 @@
 **The database and software used in this study as follow:**
 - fastp (v0.24)
 - Bowtie2 (v2.5.4)
+- Minimap2 (v2.28-r1209)
 - Samtools (v1.21)
 - R (v4.4.3)
 - randomForest package (v4.7)
