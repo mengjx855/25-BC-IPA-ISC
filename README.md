@@ -25,4 +25,4 @@
 - PyMOL (v3.2)
 
 If you find this code useful, we would appreciate if you cite our paper.  
-> Zhang, Yanan, et al. "A microbiota-IPA axis facilitates intestinal stem cell-mediated regeneration in colitis through a Hopx-associated program" *(Accept, 2026)*.
+> Zhang, Yanan et al. “A microbiota-IPA axis facilitates intestinal stem cell-mediated regeneration in colitis through a Hopx-associated program.” Nature communications, 25 Feb. 2026, doi:10.1038/s41467-026-70062-6
